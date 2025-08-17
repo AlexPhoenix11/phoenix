@@ -1,4 +1,4 @@
 {
-  "version": "1.2",
-  "link": "https://cccimg.com/down.php/d8b8a1f82698a9f2402327ab80580ec4.so"
+  "version": "1",
+  "link": "https://cccimg.com/down.php/e22f7ebade93a104a117ece1cc625497.so"
 }
